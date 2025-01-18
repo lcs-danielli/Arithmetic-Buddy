@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		65AA26F52D3BFB97006AE4AB /* AdditionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AA26F42D3BFB8E006AE4AB /* AdditionView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		65AA26E32D3BFB81006AE4AB /* Arithmetic Buddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Arithmetic Buddy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		65AA26F42D3BFB8E006AE4AB /* AdditionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				65AA26E52D3BFB81006AE4AB /* Arithmetic Buddy */,
 				65AA26E42D3BFB81006AE4AB /* Products */,
+				65AA26F42D3BFB8E006AE4AB /* AdditionView.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65AA26F52D3BFB97006AE4AB /* AdditionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
